@@ -1,0 +1,155 @@
+2026-11-26 15:32:18.978 [warning] [Window] Ignoring the error while validating workspace folder vscode-vfs://github/iSystem32/Teleprompter - ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter'
+2026-11-26 15:32:19.155 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.remote-repositories' wants API proposal 'timeline' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-11-26 15:32:19.156 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'agentsWindowActivation' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-11-26 15:32:19.156 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'github.remotehub' wants API proposal 'timeline' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-11-26 15:32:19.639 [warning] [Window] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 26ms.
+2026-11-26 15:32:19.727 [warning] [Window] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 22ms.
+2026-11-26 15:32:19.775 [info] [Window] [RemoteAgentHost] Reconciling: desired=[], current=[]
+2026-11-26 15:32:19.796 [info] [Window] [AgentHost:remote] Initializing (remoteAuthority=none)
+2026-11-26 15:32:19.797 [warning] [Window] [AgentHost:remote] No remote agent connection available. Not connecting.
+2026-11-26 15:32:20.772 [error] [Network] #2: https://main.vscode-cdn.net/extensions/marketplace.json - error GET AbortSignal.timeout is not a function
+2026-11-26 15:32:20.926 [info] [Window] Found additional builtin extension gallery resources in env ["https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode/0.0.75/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/azure-repos/0.40.0/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-server/1.5.4/extension","https://github.vscode-unpkg.net/GitHub/codespaces/1.18.17/extension","https://github.vscode-unpkg.net/GitHub/vscode-pull-request-github/0.182.0/extension","https://github.vscode-unpkg.net/GitHub/remotehub/0.66.0/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-java/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-rust/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-explorer/0.5.0/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-cpp/0.0.7/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-python/0.0.7/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-kotlin/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-php/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-c-sharp/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-typescript/0.0.7/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-go/0.0.8/extension"]
+2026-11-26 15:32:20.928 [info] [Window] Updating additional builtin extensions cache
+2026-11-26 15:32:22.653 [warning] [Window] [CopilotCliAgentPluginDiscovery] Failed to read runtime plugin inventory Runtime plugin inventory is unavailable.
+2026-11-26 15:32:23.290 [info] [Window] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-11-26 15:32:23.657 [warning] [Window] [CopilotCliAgentPluginDiscovery] Failed to read runtime plugin inventory Runtime plugin inventory is unavailable.
+2026-11-26 15:32:24.258 [info] [Window] [RemoteAgentHost] Reconciling: desired=[], current=[]
+2026-11-26 15:32:24.265 [info] [Window] [RemoteAgentHost] Reconciling: desired=[], current=[]
+2026-11-26 15:32:24.679 [error] [Window] TypeError: this.local.toSorted is not a function or its return value is not iterable
+    at TIt.getEnabledLocalMcpServers (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:4081:21542)
+    at iIt.sync (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:4008:160238)
+    at iIt.start (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:4008:159937)
+    at w3._runFn (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:4014:13028)
+    at w3._run (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:32:6695)
+    at new w3 (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:32:5832)
+    at ee (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:32:8935)
+    at new wIt (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:4014:12845)
+    at s._createInstance (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:2183:2000)
+    at s.createInstance (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:2183:1440)
+    at safeCreateContribution (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:644:50468)
+    at l (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:644:50069)
+2026-11-26 15:32:25.696 [warning] [Window] [CopilotCliAgentPluginDiscovery] Failed to read runtime plugin inventory Runtime plugin inventory is unavailable.
+2026-11-26 15:32:25.771 [info] [Cloud Changes] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2026-11-26 15:32:26.759 [warning] [Window] WorkbenchAssignmentService: Signed-out TAS discovery timed out
+2026-11-26 15:32:26.834 [info] [Window] Ignoring additional builtin extension from gallery resource https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode/0.0.75/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode/0.0.75/extension'. Failed to fetch
+2026-11-26 15:32:26.836 [info] [Window] Ignoring additional builtin extension from gallery resource https://ms-vscode.vscode-unpkg.net/ms-vscode/azure-repos/0.40.0/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://ms-vscode.vscode-unpkg.net/ms-vscode/azure-repos/0.40.0/extension'. Failed to fetch
+2026-11-26 15:32:26.860 [info] [Window] Ignoring additional builtin extension from gallery resource https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-server/1.5.4/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-server/1.5.4/extension'. Failed to fetch
+2026-11-26 15:32:26.861 [info] [Window] Ignoring additional builtin extension from gallery resource https://github.vscode-unpkg.net/GitHub/codespaces/1.18.17/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://github.vscode-unpkg.net/GitHub/codespaces/1.18.17/extension'. Failed to fetch
+2026-11-26 15:32:26.862 [info] [Window] Ignoring additional builtin extension from gallery resource https://github.vscode-unpkg.net/GitHub/vscode-pull-request-github/0.182.0/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://github.vscode-unpkg.net/GitHub/vscode-pull-request-github/0.182.0/extension'. Failed to fetch
+2026-11-26 15:32:26.863 [info] [Window] Ignoring additional builtin extension from gallery resource https://github.vscode-unpkg.net/GitHub/remotehub/0.66.0/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://github.vscode-unpkg.net/GitHub/remotehub/0.66.0/extension'. Failed to fetch
+2026-11-26 15:32:26.864 [info] [Window] Ignoring additional builtin extension from gallery resource https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-java/0.0.8/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-java/0.0.8/extension'. Failed to fetch
+2026-11-26 15:32:26.865 [info] [Window] Ignoring additional builtin extension from gallery resource https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-rust/0.0.8/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-rust/0.0.8/extension'. Failed to fetch
+2026-11-26 15:32:26.866 [info] [Window] Ignoring additional builtin extension from gallery resource https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-explorer/0.5.0/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-explorer/0.5.0/extension'. Failed to fetch
+2026-11-26 15:32:26.867 [info] [Window] Ignoring additional builtin extension from gallery resource https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-cpp/0.0.7/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-cpp/0.0.7/extension'. Failed to fetch
+2026-11-26 15:32:26.868 [info] [Window] Ignoring additional builtin extension from gallery resource https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-python/0.0.7/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-python/0.0.7/extension'. Failed to fetch
+2026-11-26 15:32:26.869 [info] [Window] Ignoring additional builtin extension from gallery resource https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-kotlin/0.0.8/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-kotlin/0.0.8/extension'. Failed to fetch
+2026-11-26 15:32:26.870 [info] [Window] Ignoring additional builtin extension from gallery resource https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-php/0.0.8/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-php/0.0.8/extension'. Failed to fetch
+2026-11-26 15:32:26.874 [info] [Window] Ignoring additional builtin extension from gallery resource https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-c-sharp/0.0.8/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-c-sharp/0.0.8/extension'. Failed to fetch
+2026-11-26 15:32:26.875 [info] [Window] Ignoring additional builtin extension from gallery resource https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension'. Failed to fetch
+2026-11-26 15:32:26.876 [info] [Window] Ignoring additional builtin extension from gallery resource https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-typescript/0.0.7/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-typescript/0.0.7/extension'. Failed to fetch
+2026-11-26 15:32:26.876 [info] [Window] Ignoring additional builtin extension from gallery resource https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-go/0.0.8/extension because there is an error while converting it into web extension Error while fetching manifest from the location 'https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-go/0.0.8/extension'. Failed to fetch
+2026-11-26 15:32:26.882 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2026-11-26 15:32:27.093 [info] [Window] Placing extension(s) vscode.git-base, vscode.github-authentication on a separate extension host.
+2026-11-26 15:32:28.010 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2026-11-26 15:32:28.030 [info] [Window] Settings Sync: Account status changed from uninitialized to unavailable
+2026-11-26 15:32:28.381 [info] [Window] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-11-26 15:32:29.354 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2026-11-26 15:32:30.211 [warning] [Window] [CopilotCliAgentPluginDiscovery] Failed to read runtime plugin inventory Runtime plugin inventory is unavailable.
+2026-11-26 15:32:30.211 [warning] [Window] [CopilotCliAgentPluginDiscovery] Runtime plugin inventory retry limit reached.
+2026-11-26 15:32:32.743 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2026-11-26 15:32:33.566 [error] [Window] CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter/.claude'
+    at ZMe.withProvider (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:138073)
+    at async ZMe.doWatch (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151444)
+    at async https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151134
+2026-11-26 15:32:33.566 [error] [Window] CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter/.github/copilot'
+    at ZMe.withProvider (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:138073)
+    at async ZMe.doWatch (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151444)
+    at async https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151134
+2026-11-26 15:32:33.567 [error] [Window] CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter'
+    at ZMe.withProvider (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:138073)
+    at async ZMe.doWatch (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151444)
+    at async https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151134
+2026-11-26 15:32:33.567 [error] [Window] CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter/.claude'
+    at ZMe.withProvider (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:138073)
+    at async ZMe.doWatch (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151444)
+    at async https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151134
+2026-11-26 15:32:33.568 [error] [Window] CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter/.mcp.json'
+    at ZMe.withProvider (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:138073)
+    at async ZMe.doWatch (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151444)
+    at async https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151134
+2026-11-26 15:32:33.568 [error] [Window] CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter'
+    at ZMe.withProvider (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:138073)
+    at async ZMe.doWatch (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151444)
+    at async https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151134
+2026-11-26 15:32:33.573 [error] [Window] CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter'
+    at ZMe.withProvider (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:138073)
+    at async ZMe.doResolveFile (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:138851)
+    at async ZMe.resolve (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:138695)
+    at async https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:5839:5062
+    at async Promise.all (index 0)
+    at async A4e.openReadme (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:5839:4973)
+    at async A4e.run (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:5839:4292)
+2026-11-26 15:32:33.574 [error] [Window] Failed to resolve files at location: vscode-vfs://github/iSystem32/Teleprompter/.github/agents ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter/.github/agents'
+2026-11-26 15:32:33.575 [error] [Window] Failed to resolve files at location: vscode-vfs://github/iSystem32/Teleprompter/.copilot/agents ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter/.copilot/agents'
+2026-11-26 15:32:33.579 [error] [Window] CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter/.vscode'
+    at ZMe.withProvider (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:138073)
+    at async ZMe.exists (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:140405)
+    at async https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:1071:24328
+    at async Promise.all (index 0)
+    at async Dtt._initWorkspaceFolderSnippets (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:1071:24493)
+2026-11-26 15:32:33.593 [warning] [Window] Failed to get installed servers from vscode-vfs://github/iSystem32/Teleprompter/.mcp.json ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter/.mcp.json'
+2026-11-26 15:32:33.721 [warning] [Window] Failed to get installed servers from vscode-vfs://github/iSystem32/Teleprompter/.vscode/mcp.json ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter/.vscode/mcp.json'
+2026-11-26 15:32:33.722 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2026-11-26 15:32:33.870 [error] [Window] Failed to resolve files at location: vscode-vfs://github/iSystem32/Teleprompter/.claude/agents ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter/.claude/agents'
+2026-11-26 15:32:33.870 [error] [Window] Failed to resolve files at location: vscode-vfs://github/iSystem32/Teleprompter/.claude/agents ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter/.claude/agents'
+2026-11-26 15:32:33.873 [error] [Window] CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter/.mcp.json'
+    at ZMe.withProvider (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:138073)
+    at async ZMe.doWatch (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151444)
+    at async https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151134
+2026-11-26 15:32:33.877 [error] [Window] CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter/.vscode/mcp.json'
+    at ZMe.withProvider (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:138073)
+    at async ZMe.doWatch (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151444)
+    at async https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151134
+2026-11-26 15:32:33.916 [error] [Window] TypeError: this.local.toSorted is not a function or its return value is not iterable
+    at TIt.getEnabledLocalMcpServers (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:4081:21542)
+    at iIt.sync (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:4008:160238)
+    at https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:4008:159922
+    at gh.queue (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:31:74727)
+    at D5e.value (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:4008:159907)
+    at N._deliver (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:30:3630)
+    at N._deliverQueue (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:30:3719)
+    at N.fire (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:30:4054)
+    at TIt.queryLocalForGeneration (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:4081:20865)
+    at async TIt.queryLocal (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:4081:20428)
+2026-11-26 15:32:33.988 [error] [Window] CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter/.vscode/extensions'
+    at ZMe.withProvider (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:138073)
+    at async ZMe.doWatch (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151444)
+    at async https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:151134
+2026-11-26 15:32:36.754 [warning] [Window] [GitService][openRepository] GitExtension delegate is not set after 10 seconds. Cannot open repository.
+2026-11-26 15:32:36.840 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2026-11-26 15:32:36.890 [error] [Window] CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/Teleprompter'
+    at ZMe.withProvider (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:138073)
+    at async ZMe.exists (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6065:140405)
+    at async Promise.all (index 0)
+    at async https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:6068:12560
+2026-11-26 15:32:36.913 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2026-11-26 15:32:37.399 [warning] [Window] [CloudSandboxApi] No 'github' session with scopes [read:user, user:email, repo, workflow]
+2026-11-26 15:32:37.405 [warning] [Window] [CloudSandboxApi] No 'github' session with scopes [read:user, user:email, repo, workflow]
+2026-11-26 15:32:37.418 [warning] [Window] [CloudSandboxApi] No 'github' session with scopes [read:user, user:email, repo, workflow]
+2026-11-26 15:32:37.460 [warning] [Window] [CloudSandboxApi] No 'github' session with scopes [read:user, user:email, repo, workflow]
+2026-11-26 15:32:52.578 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2026-11-26 15:33:31.222 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2026-11-26 15:33:31.284 [error] [Window] Error: Unable to resolve resource vscode-vfs://github/iSystem32/Teleprompter
+    at ojt.doCreateReferencedObject (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:2009:30981)
+    at ojt.doCreateReferencedObject (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:2009:30944)
+    at async _5e.acquire (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:28:3877)
+    at async njt.createModelReference (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:2009:32839)
+    at async XA.resolve (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:935:33034)
+    at async vde.setInput (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:1270:97842)
+    at async Kot.doSetInput (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:1275:111686)
+    at async Kot.doOpenEditor (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:1275:109471)
+    at async Kot.openEditor (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:1275:108417)
+    at async https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:1388:81441
+    at async WC.withEditorActionsPending (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:1388:81204)
+    at async D5e.value (https://main.vscode-cdn.net/stable/661626d0e72f97806550790a98fb87116c9db825/out/vs/workbench/workbench.web.main.internal.js:2802:71755)
+2026-11-26 15:33:48.144 [error] [Window] An unknown error occurred. Please consult the log for more details.
