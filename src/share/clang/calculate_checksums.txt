@@ -1,0 +1,10 @@
+/storage/emulated/0/src/src/share/clang/bash-autocomplete.sh
+/storage/emulated/0/src/src/share/clang/clang-format-bbedit.applescript
+/storage/emulated/0/src/src/share/clang/clang-format-diff.py
+/storage/emulated/0/src/src/share/clang/clang-format-sublime.py
+/storage/emulated/0/src/src/share/clang/clang-format.el
+/storage/emulated/0/src/src/share/clang/clang-format.py
+/storage/emulated/0/src/src/share/clang/clang-include-fixer.el
+/storage/emulated/0/src/src/share/clang/clang-include-fixer.py
+/storage/emulated/0/src/src/share/clang/clang-tidy-diff.py
+/storage/emulated/0/src/src/share/clang/run-find-all-symbols.py
