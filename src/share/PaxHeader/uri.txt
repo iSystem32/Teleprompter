@@ -1,0 +1,45 @@
+9ef6e24305e694d770d74fcf61f00afedc46586e6fb7f01ef9e2df117b2a1e32  aclocal
+2431d3f47f009396a7a95d9e6f4d661ab12fdf3495272a89b7a281a54527abc3  awk
+197586ec17953d93b17ffe07c966647131a259272f26738c32d599b6101e670a  bash-completion
+3d5cdfe4f6813f06b17b8cc4f54501a355197d125a6fe8737c72a6c5bf3037ba  clang
+ca5b36232b414631d2173a333dab4d7a3ddb446a020dd80b15b5eaccd9a2c267  clang-doc
+7abd8a0ec04ae2e6bd6aba69912fedb81a89199b0e111dab698c492408dd5741  cmake-4.1
+83d388edf36417d3cb15c6300e2006a63646986d0f4ce4d107020510afe6a645  doc
+beca85bec9ed04fbe6b49654395a445a489bd7091fddaa41733af9fda0f2d565  emacs
+54002e67dc5c43f0b99b0ffae5bc2081ceedc2b950e742cc7100f632613832be  git-core
+b54beb86f9c63f4bd35c24f7692351c47fb719dd651f2e12f1478392dd9e56c0  gitweb
+98e2a439d6b6a1d4b8c87bd5866c1cf1e6100687a65228866b025c03fbae79d7  icu
+9d8654eddb6ba7374c92e7d52ba6005876eb7add65413599e701090e1a76d64c  info
+33f96653e97161f93c183251b2b3405a9a848edf8d0f27767505bd4b7988d077  man
+4af58bb360b55a0617e7c2dc541c6706ce72ef41902669e23223d8824c57308f  misc
+e60e2a159e515924989633c48d6bfc4e22df4c07c94aba4e5cc9599db6011b63  opt-viewer
+19a668077a630ff790e5414a12099986c37a0e25d79dbecb0f00fa7e9b4e3c67  perl5
+6f68f8d15e724fe1e276cbd1d192ff87dc33dac383ae960fcd0f81e2364bdafa  readline
+37fa76ec5ad10257b052a670dd7e078a63c6bf027dce780c16ddb10db1b32f56  scan-build
+09d304bacfd7dddbabe5713c30edb1ae0b6bf34f41db914b708809c4e9ac302c  scan-view
+21b800246a37e3215fb272e0ade4da1c9932c911acaaceb2aa9083e30db6ae51  tabset
+4781e02fad8cde656a6417ef5404514526568d1c354eac9e7d06c3d8e52cce32  terminfo
+b065663896333c841c8d5591ba7512c731e54268f3c76c8b0e49742930367e43  vim
+
+/storage/emulated/0/src/src/share/PaxHeader/aclocal
+/storage/emulated/0/src/src/share/PaxHeader/awk
+/storage/emulated/0/src/src/share/PaxHeader/bash-completion
+/storage/emulated/0/src/src/share/PaxHeader/clang
+/storage/emulated/0/src/src/share/PaxHeader/clang-doc
+/storage/emulated/0/src/src/share/PaxHeader/cmake-4.1
+/storage/emulated/0/src/src/share/PaxHeader/doc
+/storage/emulated/0/src/src/share/PaxHeader/emacs
+/storage/emulated/0/src/src/share/PaxHeader/git-core
+/storage/emulated/0/src/src/share/PaxHeader/gitweb
+/storage/emulated/0/src/src/share/PaxHeader/icu
+/storage/emulated/0/src/src/share/PaxHeader/info
+/storage/emulated/0/src/src/share/PaxHeader/man
+/storage/emulated/0/src/src/share/PaxHeader/misc
+/storage/emulated/0/src/src/share/PaxHeader/opt-viewer
+/storage/emulated/0/src/src/share/PaxHeader/perl5
+/storage/emulated/0/src/src/share/PaxHeader/readline
+/storage/emulated/0/src/src/share/PaxHeader/scan-build
+/storage/emulated/0/src/src/share/PaxHeader/scan-view
+/storage/emulated/0/src/src/share/PaxHeader/tabset
+/storage/emulated/0/src/src/share/PaxHeader/terminfo
+/storage/emulated/0/src/src/share/PaxHeader/vim
